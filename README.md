@@ -1,1 +1,1 @@
-# JavaFunda
+# JavaFundamental
